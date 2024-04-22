@@ -166,6 +166,8 @@ These are the resourcepacks we use.
 |  Texturepack Name and Link | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: |
 | [VanillaTweaks Textures](https://vanillatweaks.net/) | Used |   |
+| [xali's Enchanted Books](https://modrinth.com/resourcepack/ZpBKASR2) | Used |   |
+| [xali's Potion](https://modrinth.com/resourcepack/yFn9hTiq) | Used |   |
 
 ### Shaderpacks
 These are the shaderpacks we use.

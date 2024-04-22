@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "9cfe11b83994c2d0cfc1a7e44b7f65e75096e47190823c54b07b9276d09c029e"
-
-[[files]]
 file = "mods/fixes/antighost.pw.toml"
 hash = "6a36d39f010d87ca7fece6e3ef177d3af8f98dfa9a91a4eff730e06a7b169bb2"
 metafile = true
@@ -100,6 +96,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/libs/collective.pw.toml"
+hash = "7e80910ff790b78c0e069a672383983c88cf0c70cb101bae9a1deb5a463186c5"
+metafile = true
+
+[[files]]
 file = "mods/libs/creativecore.pw.toml"
 hash = "d76a509fda2e70271729206e627c6b8412cf5a9b76699c525dc61747e01620cb"
 metafile = true
@@ -150,8 +151,18 @@ hash = "b71f58c8d8c55f69de353b6222a17598c87b17dbedfdf18e8aeae43ad77a73ed"
 metafile = true
 
 [[files]]
+file = "mods/misc/auto-third-person.pw.toml"
+hash = "b795f82c6f1f34676cd52ee7acc49bf9ef2469762c25b707bc8e0f2d3dab27a2"
+metafile = true
+
+[[files]]
 file = "mods/misc/chat-heads.pw.toml"
 hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
+metafile = true
+
+[[files]]
+file = "mods/misc/cherished-worlds.pw.toml"
+hash = "f147820f119ce92f5f0a4a94e7ff1fd847bd08c1c5e3b44e1c79926db04cef36"
 metafile = true
 
 [[files]]
@@ -165,6 +176,11 @@ hash = "be99cc0e7cc05be147d0b4ab71024c5266c34eda5b6ce67dc7f7d93061a60511"
 metafile = true
 
 [[files]]
+file = "mods/misc/continue.pw.toml"
+hash = "9b65ce988265594df45f26a71cca523779e97696c579740e8fd6b8c6b0236cb8"
+metafile = true
+
+[[files]]
 file = "mods/misc/dcintegration.pw.toml"
 hash = "1af769bd9f498ed9eeb3ca10a6895bf1eaff8799c37f2b57bb58e5aa413c8666"
 metafile = true
@@ -172,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/misc/do-a-barrel-roll.pw.toml"
 hash = "4e2743db06ce03af709cf9b196d188d6b8fcdb56e39e1ff9ffec01c88affc9d5"
+metafile = true
+
+[[files]]
+file = "mods/misc/double-doors.pw.toml"
+hash = "63577d4abd5be5c2b061bd3d5f6bdf0878b7ab0e8e2e0b7f98bdeb50e009134f"
 metafile = true
 
 [[files]]
@@ -295,6 +316,11 @@ hash = "30928528b8739f0b3d708cef1f41a0099481be25fca54de4faf67d9e47410640"
 metafile = true
 
 [[files]]
+file = "mods/sounds/presence-footsteps.pw.toml"
+hash = "74058d27cf4f2eaa273b7e3e7068e573a196d12116d2290c9088cdb5895c3aa8"
+metafile = true
+
+[[files]]
 file = "mods/sounds/sound-physics-remastered.pw.toml"
 hash = "cfeac7b1e393b702a18e76e887a4857b021b2fa56a62261513b715d2c8e35833"
 metafile = true
@@ -370,6 +396,11 @@ hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
 
 [[files]]
+file = "mods/textures/better-end-sky.pw.toml"
+hash = "9d5eb5ff51dfc7123dfea318a027ec5fdf96ac9a29451367ce36cfcb88833679"
+metafile = true
+
+[[files]]
 file = "mods/textures/blahaj-of-undying.pw.toml"
 hash = "528bf0fe0e6e7b9a786aa5a314f1d55abb64bf45b584644358103c33cd8a7e78"
 metafile = true
@@ -425,11 +456,6 @@ hash = "a874d77f08289eb1b597c0b63eb1abe85263ff69648369057a99382d9c608da1"
 metafile = true
 
 [[files]]
-file = "mods/textures/presence-footsteps.pw.toml"
-hash = "74058d27cf4f2eaa273b7e3e7068e573a196d12116d2290c9088cdb5895c3aa8"
-metafile = true
-
-[[files]]
 file = "mods/textures/quilted_clear_skies.pw.toml"
 hash = "0ec0814378619b5f59b2fe5913be6c9b292efdb2363bb5881b9d64c6be36b194"
 metafile = true
@@ -437,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/utils/appleskin.pw.toml"
 hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
+metafile = true
+
+[[files]]
+file = "mods/utils/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
@@ -477,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/utils/rei.pw.toml"
 hash = "043d2cd5212920411ea4bfeba5cc4ff330b504d24e3af947897de6268b76805c"
+metafile = true
+
+[[files]]
+file = "mods/utils/shulkerboxtooltip.pw.toml"
+hash = "5003f2c451c9459b7911ac786897eead4d74a8ebdad4741476949791b26c3caa"
 metafile = true
 
 [[files]]

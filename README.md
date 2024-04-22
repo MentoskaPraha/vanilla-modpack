@@ -23,6 +23,7 @@ These mods rework how the game sounds, making it sound very nice.
 | [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used |   |
 | [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Used |  |
 | [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used |   |
+| [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used |   |
 
 ### Utility Mods
 These mods add certain useful utilities to the game.
@@ -30,6 +31,7 @@ These mods add certain useful utilities to the game.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | Client or Server | Used |   |
+| [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) | Client | Used |   |
 | [BetterF3](https://modrinth.com/mod/8shC1gFX) | Client | Used |   |
 | [Boat Item View](https://modrinth.com/mod/BdKIyOLe) | Client | Used |   |
 | [Chunky](https://modrinth.com/mod/fALzjamp) | Client or Server | Used |   |
@@ -38,6 +40,7 @@ These mods add certain useful utilities to the game.
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | Client or Server | Used |   |
 | [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf) | Client | Used |   |
 | [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) | Client or Server | Used |   |
+| [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) | Client | Used |   |
 | [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) | Client | Used |   |
 | [VTDownloader](https://modrinth.com/mod/1E2sq1cp) | Client | Used |   |
 | [Zoomify](https://modrinth.com/mod/w7ThoJFB) | Client | Used |   |
@@ -107,6 +110,7 @@ These mods allow texturepacks to work and rework some textures sometimes.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [Better End Sky](https://modrinth.com/mod/SgJ1iW80) | Client | Used |   |
 | [Blåhaj of Undying](https://modrinth.com/mod/aJb4vlkM) | Client | Used |   |
 | [CIT Resewn](https://modrinth.com/mod/otVJckYQ) | Client | Used |   |
 | [Continuity](https://modrinth.com/mod/1IjD5062) | Client | Used |   |
@@ -115,7 +119,6 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [Cave Dust](https://modrinth.com/mod/jawg7zT1) | Client | Used |   |
 | [Particle Rain](https://modrinth.com/mod/nrikgvxm) | Client | Used |   |
 | [Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr) | Client | Used |   |
-| [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used |   |
 | [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) | Client | Used |   |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used |   |
 | [Iris Shaders](https://modrinth.com/mod/YL57xq9U) | Client | Used |   |
@@ -127,10 +130,14 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) | Client | Used |   |
+| [Auto Third Person](https://modrinth.com/mod/ANu8FMzT) | Client | Used |   |
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Client | Used |   |
+| [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) | Client | Used |   |
 | [ClearDespawn](https://modrinth.com/mod/yoJJjRRE) | Client | Used |   |
 | [Clickthrough 2.0](https://modrinth.com/mod/ERHOxvaH) | Client | Used |   |
+| [Continue Button](https://modrinth.com/mod/6DpItqEj) | Client | Used |   |
 | [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) | Client or Server | Used |   |
+| [Double Doors](https://modrinth.com/mod/JrvR9OHr) | Client or Server | Used |   |
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used |   |
 | [Global Packs](https://modrinth.com/mod/NRLPy2mk) | Client | Used |   |
 | [KubeJS](https://modrinth.com/mod/umyGl7zF) | Client or Server | Used |   |
@@ -151,6 +158,7 @@ These mods allow all the other mods to work.
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client | Used |   |
 | [CICADA](https://modrinth.com/mod/IwCkru1D) | Client or Server | Used |   |
 | [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client or Server | Used |   |
+| [Collective](https://modrinth.com/mod/e0M1UDsY) | Client or Server | Used |   |
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used |   |
 | [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used |   |
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used |   |

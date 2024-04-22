@@ -1,0 +1,13 @@
+name = "Vanilla Modpack"
+author = "MentoskaPraha"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c4341969225d4f90574c9fb1610f63edc17c9217e72eaa1efeaf5d9a441294d0"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.25.0"

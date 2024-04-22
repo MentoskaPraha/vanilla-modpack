@@ -21,7 +21,7 @@ These mods rework how the game sounds, making it sound very nice.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used |   |
-| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Used | N/A |
+| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Used |  |
 | [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used |   |
 
 ### Utility Mods

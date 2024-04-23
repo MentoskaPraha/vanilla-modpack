@@ -15,75 +15,6 @@ This modpack is designed to be used on Vanilla servers, like minigames servers o
 ## Content List
 Here are lists of all the things that are in this pack.
 
-### Sound Mods
-These mods rework how the game sounds, making it sound very nice.
-
-|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
-| :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used |   |
-| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Used |  |
-| [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used |   |
-| [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used |   |
-
-### Utility Mods
-These mods add certain useful utilities to the game.
-
-|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
-| :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | Client or Server | Used |   |
-| [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) | Client | Used |   |
-| [BetterF3](https://modrinth.com/mod/8shC1gFX) | Client | Used |   |
-| [Boat Item View](https://modrinth.com/mod/BdKIyOLe) | Client | Used |   |
-| [Chunky](https://modrinth.com/mod/fALzjamp) | Client or Server | Used |   |
-| [Freecam](https://modrinth.com/mod/XeEZ3fK2) | Client | Used |   |
-| [ItemSwapper](https://modrinth.com/mod/RPOSBQgq) | Client and/or Server | Used |   |
-| [Jade](https://modrinth.com/mod/nvQzSEkH) | Client or Server | Used |   |
-| [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf) | Client | Used |   |
-| [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) | Client or Server | Used |   |
-| [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) | Client | Used |   |
-| [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) | Client | Used |   |
-| [VTDownloader](https://modrinth.com/mod/1E2sq1cp) | Client | Used |   |
-| [Zoomify](https://modrinth.com/mod/w7ThoJFB) | Client | Used |   |
-
-### Terrain Mods
-These mods rework terrain generation, allowing for interesting structures and exploration.
-
-|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
-| :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [Fabric Seasons](https://modrinth.com/mod/KJe6y9Eu) | Client or Server | Used | N/A |
-| [Terralith](https://modrinth.com/mod/8oi3bsk5) | Client or Server | Used |   |
-| [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) | Client or Server | Used |   |
-| [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) | Client or Server | Used |   |
-| [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) | Client or Server | Used |   |
-| [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) | Client or Server | Used |   |
-| [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) | Client or Server | Used |   |
-| [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) | Client or Server | Used |   |
-| [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) | Client or Server | Used |   |
-| [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) | Client or Server | Used |   |
-| [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) | Client or Server | Used |   |
-| [YUNG's Bridges](https://modrinth.com/mod/Ht4BfYp6) | Client or Server | Used |   |
-| [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) | Client or Server | Used |   |
-
-### Optimasation
-These mods make the game go brrrrrrrrrrrrrrrrrrr.
-
-|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
-| :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [Alternate Current](https://modrinth.com/mod/r0v8vy1s) | Server | Used |   |
-| [Clumps](https://modrinth.com/mod/Wnxd13zP) | Server | Used |   |
-| [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server | Used |   |
-| [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV) | Client | Used |   |
-| [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) | Client | Used |   |
-| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used |   |
-| [Entity Culling](https://modrinth.com/mod/NNAgCjsB) | Client | Used |   |
-| [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client or Server | Used |   |
-| [Noisium](https://modrinth.com/mod/KuNKN7d2) | Client or Server | Used |   |
-| [Lithium](https://modrinth.com/mod/gvQqBUqZ) | Client or Server | Used |   |
-| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Client or Server | Used |   |
-| [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) | Client | Used |   |
-| [Sodium](https://modrinth.com/mod/AANobbMI) | Client | Used |   |
-| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Server | Used |   |
-
 ### Fixes Mods
 These mods fix certain aspects of the game.
 
@@ -105,24 +36,25 @@ These mods fix certain aspects of the game.
 | [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) | Client | Used |   |
 | [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) | Client or Server | Used |   |
 
-### Texture Mods
-These mods allow texturepacks to work and rework some textures sometimes.
+### Library Mods
+These mods allow all the other mods to work.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [Better End Sky](https://modrinth.com/mod/SgJ1iW80) | Client | Used |   |
-| [Blåhaj of Undying](https://modrinth.com/mod/aJb4vlkM) | Client | Used |   |
-| [CIT Resewn](https://modrinth.com/mod/otVJckYQ) | Client | Used |   |
-| [Continuity](https://modrinth.com/mod/1IjD5062) | Client | Used |   |
-| [Eating Animation](https://modrinth.com/mod/rUgZvGzi) | Client | Used |   |
-| [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used |   |
-| [Cave Dust](https://modrinth.com/mod/jawg7zT1) | Client | Used |   |
-| [Particle Rain](https://modrinth.com/mod/nrikgvxm) | Client | Used |   |
-| [Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr) | Client | Used |   |
-| [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) | Client | Used |   |
-| [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used |   |
-| [Iris Shaders](https://modrinth.com/mod/YL57xq9U) | Client | Used |   |
-| [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used |   |
+| [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client or Server | Used |   |
+| [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client | Used |   |
+| [CICADA](https://modrinth.com/mod/IwCkru1D) | Client or Server | Used |   |
+| [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client or Server | Used |   |
+| [Collective](https://modrinth.com/mod/e0M1UDsY) | Client or Server | Used |   |
+| [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used |   |
+| [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used |   |
+| [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used |   |
+| [M.R.U](https://modrinth.com/mod/SNVQ2c0g) | Client | Used |   |
+| [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client | Used |   |
+| [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ) | Client | Used |   |
+| [Rhino](https://modrinth.com/mod/sk9knFPE) | Client | Used |   |
+| [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client | Used |   |
+| [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client | Used |   |
 
 ### Misc Mods
 These mods didn't fit into any of the other categories so, they're just dumbed in this one.
@@ -149,25 +81,92 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) | Client | Used |   |
 | [Traveler's Titles](https://modrinth.com/mod/JtifUr64) | Client | Used |   |
 
-### Library Mods
-These mods allow all the other mods to work.
+### Optimasation
+These mods make the game go brrrrrrrrrrrrrrrrrrr.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client or Server | Used |   |
-| [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client | Used |   |
-| [CICADA](https://modrinth.com/mod/IwCkru1D) | Client or Server | Used |   |
-| [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client or Server | Used |   |
-| [Collective](https://modrinth.com/mod/e0M1UDsY) | Client or Server | Used |   |
-| [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used |   |
-| [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used |   |
-| [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used |   |
-| [M.R.U](https://modrinth.com/mod/SNVQ2c0g) | Client | Used |   |
-| [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client | Used |   |
-| [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ) | Client | Used |   |
-| [Rhino](https://modrinth.com/mod/sk9knFPE) | Client | Used |   |
-| [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client | Used |   |
-| [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client | Used |   |
+| [Alternate Current](https://modrinth.com/mod/r0v8vy1s) | Server | Used |   |
+| [Clumps](https://modrinth.com/mod/Wnxd13zP) | Server | Used |   |
+| [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server | Used |   |
+| [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV) | Client | Used |   |
+| [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) | Client | Used |   |
+| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used |   |
+| [Entity Culling](https://modrinth.com/mod/NNAgCjsB) | Client | Used |   |
+| [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client or Server | Used |   |
+| [Noisium](https://modrinth.com/mod/KuNKN7d2) | Client or Server | Used |   |
+| [Lithium](https://modrinth.com/mod/gvQqBUqZ) | Client or Server | Used |   |
+| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Client or Server | Used |   |
+| [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) | Client | Used |   |
+| [Sodium](https://modrinth.com/mod/AANobbMI) | Client | Used |   |
+| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Server | Used |   |
+
+### Sound Mods
+These mods rework how the game sounds, making it sound very nice.
+
+|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
+| :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used |   |
+| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Used |  |
+| [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used |   |
+| [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used |   |
+
+### Terrain Mods
+These mods rework terrain generation, allowing for interesting structures and exploration.
+
+|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
+| :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [Terralith](https://modrinth.com/mod/8oi3bsk5) | Client or Server | Used |   |
+| [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) | Client or Server | Used |   |
+| [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) | Client or Server | Used |   |
+| [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) | Client or Server | Used |   |
+| [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) | Client or Server | Used |   |
+| [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) | Client or Server | Used |   |
+| [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) | Client or Server | Used |   |
+| [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) | Client or Server | Used |   |
+| [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) | Client or Server | Used |   |
+| [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87) | Client or Server | Used |   |
+| [YUNG's Bridges](https://modrinth.com/mod/Ht4BfYp6) | Client or Server | Used |   |
+| [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) | Client or Server | Used |   |
+
+### Texture Mods
+These mods allow texturepacks to work and rework some textures sometimes.
+
+|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
+| :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [Better End Sky](https://modrinth.com/mod/SgJ1iW80) | Client | Used |   |
+| [Blåhaj of Undying](https://modrinth.com/mod/aJb4vlkM) | Client | Used |   |
+| [CIT Resewn](https://modrinth.com/mod/otVJckYQ) | Client | Used |   |
+| [Continuity](https://modrinth.com/mod/1IjD5062) | Client | Used |   |
+| [Eating Animation](https://modrinth.com/mod/rUgZvGzi) | Client | Used |   |
+| [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used |   |
+| [Cave Dust](https://modrinth.com/mod/jawg7zT1) | Client | Used |   |
+| [Particle Rain](https://modrinth.com/mod/nrikgvxm) | Client | Used |   |
+| [Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr) | Client | Used |   |
+| [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) | Client | Used |   |
+| [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used |   |
+| [Iris Shaders](https://modrinth.com/mod/YL57xq9U) | Client | Used |   |
+| [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used |   |
+
+### Utility Mods
+These mods add certain useful utilities to the game.
+
+|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
+| :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | Client or Server | Used |   |
+| [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) | Client | Used |   |
+| [BetterF3](https://modrinth.com/mod/8shC1gFX) | Client | Used |   |
+| [Boat Item View](https://modrinth.com/mod/BdKIyOLe) | Client | Used |   |
+| [Chunky](https://modrinth.com/mod/fALzjamp) | Client or Server | Used |   |
+| [Freecam](https://modrinth.com/mod/XeEZ3fK2) | Client | Used |   |
+| [ItemSwapper](https://modrinth.com/mod/RPOSBQgq) | Client and/or Server | Used |   |
+| [Jade](https://modrinth.com/mod/nvQzSEkH) | Client or Server | Used |   |
+| [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf) | Client | Used |   |
+| [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) | Client or Server | Used |   |
+| [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq) | Client | Used |   |
+| [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) | Client | Used |   |
+| [VTDownloader](https://modrinth.com/mod/1E2sq1cp) | Client | Used |   |
+| [Zoomify](https://modrinth.com/mod/w7ThoJFB) | Client | Used |   |
 
 ### Resourcepacks
 These are the resourcepacks we use.

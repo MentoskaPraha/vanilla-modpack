@@ -172,9 +172,9 @@ These mods add certain useful utilities to the game.
 These are the resourcepacks we use.
 |  Texturepack Name and Link | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: |
-| [VanillaTweaks Textures](https://vanillatweaks.net/) | Used |   |
-| [xali's Enchanted Books](https://modrinth.com/resourcepack/ZpBKASR2) | Used |   |
-| [xali's Potion](https://modrinth.com/resourcepack/yFn9hTiq) | Used |   |
+| [VanillaTweaks Textures](https://vanillatweaks.net/) | Used in resourcepack folder. |  |
+| [xali's Enchanted Books](https://modrinth.com/resourcepack/ZpBKASR2) | Used in kubejs/assets folder. |  |
+| [xali's Potion](https://modrinth.com/resourcepack/yFn9hTiq) | Used in kubejs/assets folder. |  |
 
 ### Shaderpacks
 These are the shaderpacks we use.
@@ -188,16 +188,18 @@ All datapacks are source from [VanillaTweaks](https://vanillatweaks.net/).
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | Armor Statues | Client or Server | Forced |   |
 | Custom Nether Portals | Client or Server  | Forced |   |
-| Fast Leaf Decay | Client or Server |  Forced |   |
-| Nether Portal Coords | Client or Server |  Optional |   |
-| Silence Mobs | Client or Server |  Forced |   |
-| Unlock all Recipes | Client or Server |  Forced |   |
+| Fast Leaf Decay | Client or Server | Forced |   |
+| Nether Portal Coords | Client or Server | Optional |   |
+| Silence Mobs | Client or Server | Forced |   |
+| Unlock all Recipes | Client or Server | Forced |   |
 | Villager Workstation Highlights | Client or Server | Optional |   |
 | Wandering Trades | Client or Server | Forced |   |
 | Thunder Shrine | Client or Server | Optional |   |
 | Tag | Server | Optional |   |
 | AFK Display | Server  | Optional |   |
 | Multiplayer Sleep | Server | Optional |   |
+| Cauldron Concrete | Client or Server | Optional |   |
+| More Mob Heads | Client or Server | Optional |   |
 
 ### Crafting Tweaks
 All crafting tweaks are source from [VanillaTweaks](https://vanillatweaks.net/).
@@ -217,7 +219,6 @@ All crafting tweaks are source from [VanillaTweaks](https://vanillatweaks.net/).
 | More Bark | Client or Server | Forced |   |
 | More Bricks | Client or Server | Forced |   |
 | Craftable Gravel | Client or Server | Forced |   |
-| Craftable Coral Blocks 2x2 | Client or Server | Forced |   |
 | Craftable Coral Blocks 3x3 | Client or Server | Forced |   |
 | Craftable Blackstone | Client or Server | Forced |   |
 | Unpackable Ice | Client or Server | Forced |   |

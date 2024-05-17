@@ -4484,11 +4484,6 @@ hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
 metafile = true
 
 [[files]]
-file = "mods/libs/mru.pw.toml"
-hash = "9157ed576dff4174a28294ba0c57c98631ef64f1faf0751bdac67b679426cc22"
-metafile = true
-
-[[files]]
 file = "mods/libs/qkl.pw.toml"
 hash = "8259f5c5b72ef4dc0c816996bfdf055409a467683c34eaa25e7eff881d13dafc"
 metafile = true
@@ -4541,11 +4536,6 @@ metafile = true
 [[files]]
 file = "mods/misc/clickthrough2.0.pw.toml"
 hash = "be99cc0e7cc05be147d0b4ab71024c5266c34eda5b6ce67dc7f7d93061a60511"
-metafile = true
-
-[[files]]
-file = "mods/misc/continue.pw.toml"
-hash = "9b65ce988265594df45f26a71cca523779e97696c579740e8fd6b8c6b0236cb8"
 metafile = true
 
 [[files]]
@@ -4691,11 +4681,6 @@ metafile = true
 [[files]]
 file = "mods/sounds/sound-physics-remastered.pw.toml"
 hash = "cfeac7b1e393b702a18e76e887a4857b021b2fa56a62261513b715d2c8e35833"
-metafile = true
-
-[[files]]
-file = "mods/sounds/sound.pw.toml"
-hash = "05441a62bf50a593b1e4921a55f5b73cc0cfa364df91621677d1e28a5a898afb"
 metafile = true
 
 [[files]]

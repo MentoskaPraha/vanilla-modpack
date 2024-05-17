@@ -49,7 +49,6 @@ These mods allow all the other mods to work.
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used |   |
 | [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used |   |
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used |   |
-| [M.R.U](https://modrinth.com/mod/SNVQ2c0g) | Client | Used |   |
 | [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client | Used |   |
 | [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ) | Client | Used |   |
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client | Used |   |
@@ -67,7 +66,6 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W) | Client | Used |   |
 | [ClearDespawn](https://modrinth.com/mod/yoJJjRRE) | Client | Used |   |
 | [Clickthrough 2.0](https://modrinth.com/mod/ERHOxvaH) | Client | Used |   |
-| [Continue Button](https://modrinth.com/mod/6DpItqEj) | Client | Used |   |
 | [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) | Client or Server | Used |   |
 | [Double Doors](https://modrinth.com/mod/JrvR9OHr) | Client or Server | Used |   |
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used |   |
@@ -107,7 +105,6 @@ These mods rework how the game sounds, making it sound very nice.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used |   |
-| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Used |  |
 | [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used |   |
 | [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used |   |
 

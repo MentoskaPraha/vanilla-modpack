@@ -101,7 +101,6 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Client or Server | Used |   |
 | [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) | Client | Used |   |
 | [Sodium](https://modrinth.com/mod/AANobbMI) | Client | Used |   |
-| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Server | Used |   |
 
 ### Sound Mods
 These mods rework how the game sounds, making it sound very nice.

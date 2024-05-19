@@ -36,6 +36,7 @@ These mods fix certain aspects of the game.
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Client | Used |   |
 | [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) | Client | Used |   |
 | [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) | Client | Used |   |
+| [NetherPortalFix](https://modrinth.com/mod/nPZr02ET) | Server | Used |   |
 | [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) | Client or Server | Used |   |
 
 ### Library Mods
@@ -44,6 +45,7 @@ These mods allow all the other mods to work.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client or Server | Used |   |
+| [Balm](https://modrinth.com/mod/MBAkmtvl) | Server | Used |   |
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client | Used |   |
 | [CICADA](https://modrinth.com/mod/IwCkru1D) | Client or Server | Used |   |
 | [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client or Server | Used |   |

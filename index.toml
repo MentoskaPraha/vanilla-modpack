@@ -54,7 +54,7 @@ hash = "ddf21fa64e08d1b553cd9a6e8612d6df32929b624243e41bb1d01137b76f2664"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "e484f155f274389eb17cf9364b867d8a886bcb591f660707ffc8be2d911c8030"
+hash = "052512422e9edca0e95592015a956c76d130fbb2d04bfd6715fd9c9a3ac86eb9"
 
 [[files]]
 file = "global_packs/optional_data/AFK_Display.zip"
@@ -4381,6 +4381,11 @@ file = "kubejs/data/Wandering_Trades.zip"
 hash = "e1a10579772adfa89a6e8b10694955e0ffd5f9086b35edee0e6884ce14312bca"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+metafile = true
+
+[[files]]
 file = "mods/fixes/antighost.pw.toml"
 hash = "6a36d39f010d87ca7fece6e3ef177d3af8f98dfa9a91a4eff730e06a7b169bb2"
 metafile = true
@@ -4626,6 +4631,11 @@ hash = "e580928a25e780a7c7b37f7b097d810e3f0e4956e55a2b99ed0b3a4cdaa933e1"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
+metafile = true
+
+[[files]]
 file = "mods/optimasation/alternate-current.pw.toml"
 hash = "7c2ab658cec86b2c7a64cb9778d3b7d038153ea049c25a70718f1d8bb6eb690f"
 metafile = true
@@ -4683,11 +4693,6 @@ metafile = true
 [[files]]
 file = "mods/optimasation/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
-metafile = true
-
-[[files]]
-file = "mods/optimasation/starlight.pw.toml"
-hash = "250689d1d6e59b0e76638f28693b3148e72ae66d95c162dfeb7a8f872307f05b"
 metafile = true
 
 [[files]]

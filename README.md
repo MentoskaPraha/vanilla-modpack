@@ -3,14 +3,15 @@ This modpack is designed to be used on Vanilla servers, like minigames servers o
 
 ## Other Repositories
 [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) - a mod that removes the banding at the horizon of Vanilla Minecraft.
+[ExtraSounds](https://github.com/lonefelidae16/extra-sounds) - a port of ExtraSounds by lonefelidae16 to the latest version of Minecraft.
 
 ## Credits
 - MentoskaPraha 
-    - Owner, Maintainer, Developer
+  - Owner, Maintainer, Developer
 - [Vanilla Tweaks](https://vanillatweaks.net/) 
-    - Made some of the epic textures y'all see in game, like the 3D ladders.
+  - Made some of the epic textures y'all see in game, like the 3D ladders.
 - All the other amazing modders and community people.
-    - You can find links to their stuff in the Content List bellow.
+  - You can find links to their stuff in the Content List bellow.
 
 ## Content List
 Here are lists of all the things that are in this pack.
@@ -25,6 +26,7 @@ These mods fix certain aspects of the game.
 | [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) | Client | Used |   |
 | [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) | Client | Used |   |
 | [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used |   |
+| [Borderless Mining](https://modrinth.com/mod/kYq5qkSL) | Client | Planned, once [issue](https://github.com/comp500/BorderlessMining/issues/100) is resolved |   |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client | Used |   |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client or server | Used |   |
 | [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client | Used |   |
@@ -49,6 +51,7 @@ These mods allow all the other mods to work.
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used |   |
 | [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used |   |
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used |   |
+| [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) | Client or Server | Used |   |
 | [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client | Used |   |
 | [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ) | Client | Used |   |
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client | Used |   |
@@ -71,11 +74,13 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used |   |
 | [Global Packs](https://modrinth.com/mod/NRLPy2mk) | Client | Used |   |
 | [KubeJS](https://modrinth.com/mod/umyGl7zF) | Client or Server | Used |   |
+| [Main Menu Credits](https://modrinth.com/mod/qJDfP7WN) | Client | Used |   |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM) | Client | Used |   |
 | [MoreChatHistory](https://modrinth.com/mod/8qkXwOnk) | Client | Used |   |
 | [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) | Client | Used |   |
 | [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) | Client | Used |   |
 | [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used |   |
+| [Rolling Down in the Deep](https://modrinth.com/mod/zQqsEeqy) | Client or Server | Used |  |
 | [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) | Client | Used |   |
 | [Traveler's Titles](https://modrinth.com/mod/JtifUr64) | Client | Used |   |
 
@@ -89,7 +94,6 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server | Used |   |
 | [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV) | Client | Used |   |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) | Client | Used |   |
-| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used |   |
 | [Entity Culling](https://modrinth.com/mod/NNAgCjsB) | Client | Used |   |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client or Server | Used |   |
 | [Noisium](https://modrinth.com/mod/KuNKN7d2) | Client or Server | Used |   |
@@ -107,6 +111,7 @@ These mods rework how the game sounds, making it sound very nice.
 | [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used |   |
 | [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used |   |
 | [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used |   |
+| [lonefelidae16's ExtraSounds](https://github.com/lonefelidae16/extra-sounds) | Client | Used |   |
 
 ### Terrain Mods
 These mods rework terrain generation, allowing for interesting structures and exploration.
@@ -143,6 +148,7 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) | Client | Used |   |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used |   |
 | [Iris Shaders](https://modrinth.com/mod/YL57xq9U) | Client | Used |   |
+| [Blur+](https://modrinth.com/mod/NK39zBp2) | Client | Used |   |
 | [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used |   |
 
 ### Utility Mods
@@ -150,8 +156,10 @@ These mods add certain useful utilities to the game.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | Client or Server | Used |   |
-| [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) | Client | Used |   |
+| [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | Client or Server | Used |  |
+| [Armor Statues](https://modrinth.com/mod/bbGCtEvb) | Client or Server | Used |  |
+| [Better Ping Display](https://modrinth.com/mod/MS1ZMyR7) | Client | Used |  |
+| [Better Third Person](https://modrinth.com/mod/G1s2WpNo) | Client | Used |  |
 | [BetterF3](https://modrinth.com/mod/8shC1gFX) | Client | Used |   |
 | [Boat Item View](https://modrinth.com/mod/BdKIyOLe) | Client | Used |   |
 | [Chunky](https://modrinth.com/mod/fALzjamp) | Client or Server | Used |   |
@@ -183,7 +191,6 @@ These are the shaderpacks we use.
 All datapacks are source from [VanillaTweaks](https://vanillatweaks.net/).
 |  Datapack Name | Client/Server Info  | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| Armor Statues | Client or Server | Forced |   |
 | Custom Nether Portals | Client or Server  | Forced |   |
 | Fast Leaf Decay | Client or Server | Forced |   |
 | Nether Portal Coords | Client or Server | Optional |   |

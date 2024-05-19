@@ -3,6 +3,7 @@ This modpack is designed to be used on Vanilla servers, like minigames servers o
 
 ## Other Repositories
 [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) - a mod that removes the banding at the horizon of Vanilla Minecraft.
+
 [ExtraSounds](https://github.com/lonefelidae16/extra-sounds) - a port of ExtraSounds by lonefelidae16 to the latest version of Minecraft.
 
 ## Credits

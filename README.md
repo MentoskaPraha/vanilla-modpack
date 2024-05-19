@@ -54,6 +54,7 @@ These mods allow all the other mods to work.
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used |   |
 | [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used |   |
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used |   |
+| [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used |   |
 | [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) | Client or Server | Used |   |
 | [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client | Used |   |
 | [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ) | Client | Used |   |

@@ -4381,11 +4381,6 @@ file = "kubejs/data/Wandering_Trades.zip"
 hash = "e1a10579772adfa89a6e8b10694955e0ffd5f9086b35edee0e6884ce14312bca"
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
-metafile = true
-
-[[files]]
 file = "mods/fixes/antighost.pw.toml"
 hash = "6a36d39f010d87ca7fece6e3ef177d3af8f98dfa9a91a4eff730e06a7b169bb2"
 metafile = true
@@ -4456,6 +4451,11 @@ hash = "5efb3876cbd22e67892ff0a7bf26a5aaaedf3ab9fab4cc9e80328424276c8278"
 metafile = true
 
 [[files]]
+file = "mods/fixes/netherportalfix.pw.toml"
+hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
+metafile = true
+
+[[files]]
 file = "mods/fixes/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -4463,6 +4463,11 @@ metafile = true
 [[files]]
 file = "mods/libs/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/libs/balm.pw.toml"
+hash = "da3d5cf1752758c6061271b27929bff66535638ab04654998f6f787ac2ce6b1c"
 metafile = true
 
 [[files]]
@@ -4498,6 +4503,11 @@ metafile = true
 [[files]]
 file = "mods/libs/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
+
+[[files]]
+file = "mods/libs/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
@@ -4628,11 +4638,6 @@ metafile = true
 [[files]]
 file = "mods/misc/travelers-titles.pw.toml"
 hash = "e580928a25e780a7c7b37f7b097d810e3f0e4956e55a2b99ed0b3a4cdaa933e1"
-metafile = true
-
-[[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
 metafile = true
 
 [[files]]

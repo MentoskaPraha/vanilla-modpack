@@ -6,3 +6,4 @@ LICENSE
 .gitattributes
 .gitignore
 *.mrpack
+.DS_Store

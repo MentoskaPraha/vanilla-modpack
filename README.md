@@ -98,6 +98,7 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server | Used |   |
 | [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV) | Client | Used |   |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) | Client | Used |   |
+| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used |   |
 | [Entity Culling](https://modrinth.com/mod/NNAgCjsB) | Client | Used |   |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client or Server | Used |   |
 | [Noisium](https://modrinth.com/mod/KuNKN7d2) | Client or Server | Used |   |

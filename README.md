@@ -151,8 +151,6 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used |   |
 | [Iris Shaders](https://modrinth.com/mod/YL57xq9U) | Client | Used |   |
 | [Blur+](https://modrinth.com/mod/NK39zBp2) | Client | Used |   |
-| [Smooth Gui](https://modrinth.com/mod/j6yrZogB) | Client | Used |   |
-| [Chat Animation](https://modrinth.com/mod/DnNYdJsx) | Client | Used |   |
 | [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used |   |
 
 ### Utility Mods

@@ -94,7 +94,6 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Alternate Current](https://modrinth.com/mod/r0v8vy1s) | Server | Used |   |
 | [Clumps](https://modrinth.com/mod/Wnxd13zP) | Server | Used |   |
-| [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server | Used |   |
 | [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV) | Client | Used |   |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) | Client | Used |   |
 | [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used |   |
@@ -152,6 +151,8 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used |   |
 | [Iris Shaders](https://modrinth.com/mod/YL57xq9U) | Client | Used |   |
 | [Blur+](https://modrinth.com/mod/NK39zBp2) | Client | Used |   |
+| [Smooth Gui](https://modrinth.com/mod/j6yrZogB) | Client | Used |   |
+| [Chat Animation](https://modrinth.com/mod/DnNYdJsx) | Client | Used |   |
 | [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used |   |
 
 ### Utility Mods

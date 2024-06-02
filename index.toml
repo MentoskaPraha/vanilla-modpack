@@ -4796,11 +4796,6 @@ hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
 metafile = true
 
 [[files]]
-file = "mods/textures/chatanimation.pw.toml"
-hash = "c66ca4fd2b94b0ed0cb3002040839aefcb71a8fd08f2dc3337e61f2e4ce28cf9"
-metafile = true
-
-[[files]]
 file = "mods/textures/cit-resewn.pw.toml"
 hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
@@ -4848,11 +4843,6 @@ metafile = true
 [[files]]
 file = "mods/textures/quilted_clear_skies.pw.toml"
 hash = "0ec0814378619b5f59b2fe5913be6c9b292efdb2363bb5881b9d64c6be36b194"
-metafile = true
-
-[[files]]
-file = "mods/textures/smooth-gui.pw.toml"
-hash = "9f9c17df47abae853e3d8bd29820310f9e21e873edcdfb3aeab4fda3f4a00eef"
 metafile = true
 
 [[files]]

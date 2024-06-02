@@ -37,6 +37,10 @@ file = "config/effective.json"
 hash = "69ddad2cb637deba48766fa9a8946764a7cd8e7e8c07588560b426cf8a587c62"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "2641d0fb90e71de7978b664be14f302fa624e73b6f5302b087716532d32f79a1"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "5cca6ef6222c8809e38649eb288d151a63a6ec02c93d4b729a3361e0ab26de78"
 

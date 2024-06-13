@@ -27,6 +27,7 @@ These mods fix certain aspects of the game.
 | [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) | Client | Used |   |
 | [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) | Client | Used |   |
 | [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used |   |
+| [Client Tweaks](https://modrinth.com/mod/vPNqo58Q) | Client | Used |   |
 | [Borderless Mining](https://modrinth.com/mod/kYq5qkSL) | Client | Planned, once [issue](https://github.com/comp500/BorderlessMining/issues/100) is resolved |   |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client | Used |   |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client or server | Used |   |
@@ -37,7 +38,7 @@ These mods fix certain aspects of the game.
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Client | Used |   |
 | [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) | Client | Used |   |
 | [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) | Client | Used |   |
-| [NetherPortalFix](https://modrinth.com/mod/nPZr02ET) | Server | Used |   |
+| [NetherPortalFix](https://modrinth.com/mod/nPZr02ET) | Client or Server | Used |   |
 | [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) | Client or Server | Used |   |
 
 ### Library Mods
@@ -46,7 +47,7 @@ These mods allow all the other mods to work.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client or Server | Used |   |
-| [Balm](https://modrinth.com/mod/MBAkmtvl) | Server | Used |   |
+| [Balm](https://modrinth.com/mod/MBAkmtvl) | Client or Server | Used |   |
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client | Used |   |
 | [CICADA](https://modrinth.com/mod/IwCkru1D) | Client or Server | Used |   |
 | [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client or Server | Used |   |
@@ -55,6 +56,7 @@ These mods allow all the other mods to work.
 | [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used |   |
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used |   |
 | [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used |   |
+| [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client or Server | Used |   |
 | [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) | Client or Server | Used |   |
 | [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client | Used |   |
 | [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ) | Client | Used |   |
@@ -120,6 +122,8 @@ These mods rework terrain generation, allowing for interesting structures and ex
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [Lithosphere](https://modrinth.com/mod/iv9jp2k9) | Client or Server | Used |   |
+| [Tectonic](https://modrinth.com/mod/lWDHr9jE) | Client or Server | Used |   |
 | [Terralith](https://modrinth.com/mod/8oi3bsk5) | Client or Server | Used |   |
 | [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) | Client or Server | Used |   |
 | [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) | Client or Server | Used |   |

@@ -4410,6 +4410,11 @@ hash = "bc48b96b648cbdeb36a05fd43532b5098d0d31f0e9bbe605ba0287c4d5b53cef"
 metafile = true
 
 [[files]]
+file = "mods/fixes/client-tweaks.pw.toml"
+hash = "d850ebf55e4799b3dc85bbc5629ea162a7e164d6321d42032757a94c8a048792"
+metafile = true
+
+[[files]]
 file = "mods/fixes/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
@@ -4456,7 +4461,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/netherportalfix.pw.toml"
-hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
+hash = "030992dda4ed112d764c1e0fbc0ecf3bfb9f2efb40ab91cc26155be7e3f8a98a"
 metafile = true
 
 [[files]]
@@ -4471,7 +4476,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/balm.pw.toml"
-hash = "da3d5cf1752758c6061271b27929bff66535638ab04654998f6f787ac2ce6b1c"
+hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
 
 [[files]]
@@ -4532,6 +4537,11 @@ metafile = true
 [[files]]
 file = "mods/libs/rhino.pw.toml"
 hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
+metafile = true
+
+[[files]]
+file = "mods/libs/terrablender.pw.toml"
+hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
 
 [[files]]
@@ -4717,6 +4727,16 @@ metafile = true
 [[files]]
 file = "mods/sounds/sound-physics-remastered.pw.toml"
 hash = "cfeac7b1e393b702a18e76e887a4857b021b2fa56a62261513b715d2c8e35833"
+metafile = true
+
+[[files]]
+file = "mods/terrain/lithosphere.pw.toml"
+hash = "0ad2acf782f3dc365acd9fb68796e57cdd7d9b4980b57981c727d0cb7fcd8e9a"
+metafile = true
+
+[[files]]
+file = "mods/terrain/tectonic.pw.toml"
+hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
 metafile = true
 
 [[files]]
